@@ -1,0 +1,72 @@
+[00:00:00.730] Server  LOG      ✓ Ready in 524ms
+[00:05:22.574] Server  LOG      ✓ Compiled in 18ms
+[00:05:32.985] Server  LOG      ✓ Compiled in 13ms
+[00:06:41.010] Server  ERROR    ⨯ TypeError: Cannot destructure property 'notes' of '{imported module ./context/NotesContext.tsx}.useNotesContext(...)' as it is null.
+[00:06:41.321] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'notes' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$NotesContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useNotesContext)(...)' as it is null.
+[00:07:39.491] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:39.506] Server  LOG      ✓ Compiled in 20ms
+[00:07:39.741] Server  ERROR    ⨯ TypeError: Cannot destructure property 'notes' of '{imported module ./context/NotesContext.tsx}.useNotesContext(...)' as it is null.
+[00:07:40.114] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'notes' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$NotesContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useNotesContext)(...)' as it is null.
+[00:08:10.614] Server  LOG        Reload env: .env
+[00:08:10.712] Server  ERROR    ⨯ TypeError: Cannot destructure property 'notes' of '{imported module ./context/NotesContext.tsx}.useNotesContext(...)' as it is null.
+[00:08:11.006] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'notes' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$NotesContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useNotesContext)(...)' as it is null.
+[00:08:25.653] Server  LOG        Reload env: .env
+[00:08:25.967] Server  ERROR    ⨯ TypeError: Cannot destructure property 'notes' of '{imported module ./context/NotesContext.tsx}.useNotesContext(...)' as it is null.
+[00:08:25.979] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:08:26.069] Server  LOG      ✓ Compiled in 0ms
+[00:08:26.227] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'notes' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$NotesContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useNotesContext)(...)' as it is null.
+[00:11:34.427] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:11:34.502] Server  LOG      ✓ Compiled in 11ms
+[00:11:34.543] Server  ERROR    ⨯ TypeError: Cannot destructure property 'notes' of '{imported module ./context/NotesContext.tsx}.useNotesContext(...)' as it is null.
+[00:11:35.397] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'notes' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$NotesContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useNotesContext)(...)' as it is null.
+[00:11:44.273] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:11:44.321] Server  LOG      ✓ Compiled in 11ms
+[00:11:44.346] Server  ERROR    ⨯ TypeError: Cannot destructure property 'notes' of '{imported module ./context/NotesContext.tsx}.useNotesContext(...)' as it is null.
+[00:11:45.396] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'notes' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$NotesContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useNotesContext)(...)' as it is null.
+[00:15:55.686] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:15:55.742] Server  LOG      ✓ Compiled in 9ms
+[00:15:55.768] Server  ERROR    ⨯ TypeError: Cannot destructure property 'notes' of '{imported module ./context/NotesContext.tsx}.useNotesContext(...)' as it is null.
+[00:15:56.398] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'notes' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$NotesContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useNotesContext)(...)' as it is null.
+[00:16:17.288] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:16:17.359] Server  LOG      ✓ Compiled in 12ms
+[00:16:17.393] Server  ERROR    ⨯ TypeError: Cannot destructure property 'notes' of '{imported module ./context/NotesContext.tsx}.useNotesContext(...)' as it is null.
+[00:16:18.396] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'notes' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$NotesContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useNotesContext)(...)' as it is null.
+[00:17:30.002] Server  LOG        Reload env: .env
+[00:17:30.022] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:17:30.065] Server  LOG      ✓ Compiled in 13ms
+[00:17:30.093] Server  ERROR    ⨯ TypeError: Cannot destructure property 'notes' of '{imported module ./context/NotesContext.tsx}.useNotesContext(...)' as it is null.
+[00:17:30.396] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'notes' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$NotesContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useNotesContext)(...)' as it is null.
+[00:24:48.525] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:24:48.585] Server  LOG      ✓ Compiled in 10ms
+[00:24:48.610] Server  ERROR    ⨯ TypeError: Cannot destructure property 'notes' of '{imported module ./context/NotesContext.tsx}.useNotesContext(...)' as it is null.
+[00:24:49.397] Browser ERROR   uncaughtError: TypeError: Cannot destructure property 'notes' of '(0 , __TURBOPACK__imported__module__$5b$project$5d2f$context$2f$NotesContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__.useNotesContext)(...)' as it is null.
+[00:26:13.965] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:14.025] Server  LOG      ✓ Compiled in 9ms
+[00:26:14.053] Server  ERROR    ⨯ Error: useNotesContext must be used within a NotesProvider
+[00:26:14.396] Browser ERROR   uncaughtError: Error: useNotesContext must be used within a NotesProvider
+[00:26:29.237] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:26:29.325] Server  LOG      ✓ Compiled in 11ms
+[00:26:29.382] Server  ERROR    ⨯ Error: useNotesContext must be used within a NotesProvider
+[00:26:30.396] Browser ERROR   uncaughtError: Error: useNotesContext must be used within a NotesProvider
+[00:27:19.365] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:27:19.429] Server  LOG      ✓ Compiled in 9ms
+[00:27:19.465] Server  ERROR    ⨯ Error: useNotesContext must be used within a NotesProvider
+[00:27:20.396] Browser ERROR   uncaughtError: Error: useNotesContext must be used within a NotesProvider
+[00:27:33.032] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:27:33.094] Server  LOG      ✓ Compiled in 13ms
+[00:27:33.123] Server  ERROR    ⨯ Error: useNotesContext must be used within a NotesProvider
+[00:27:34.396] Browser ERROR   uncaughtError: Error: useNotesContext must be used within a NotesProvider
+[00:27:36.026] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:27:36.082] Server  LOG      ✓ Compiled in 12ms
+[00:27:36.119] Server  ERROR    ⨯ Error: useNotesContext must be used within a NotesProvider
+[00:27:37.396] Browser ERROR   uncaughtError: Error: useNotesContext must be used within a NotesProvider
+[00:30:18.991] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:30:19.054] Server  LOG      ✓ Compiled in 10ms
+[00:30:19.086] Server  ERROR    ⨯ Error: useNotesContext must be used within a NotesProvider
+[00:30:20.396] Browser ERROR   uncaughtError: Error: useNotesContext must be used within a NotesProvider
+[00:31:08.086] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:31:08.140] Server  LOG      ✓ Compiled in 16ms
+[00:31:08.178] Server  ERROR    ⨯ Error: useNotesContext must be used within a NotesProvider
+[00:31:08.457] Browser ERROR   uncaughtError: Error: useNotesContext must be used within a NotesProvider
+[00:31:31.802] Server  ERROR    ⨯ Error: useNotesContext must be used within a NotesProvider
+[00:31:32.276] Browser ERROR   uncaughtError: Error: useNotesContext must be used within a NotesProvider
